@@ -1,0 +1,6 @@
+print(5 == 5)   # Eşit mi?
+print(5 != 3)   # Eşit değil mi?
+print(5 > 3)    # Büyük mü?
+print(5 < 10)   # Küçük mü?
+print(5 >= 5)   # Büyük veya eşit mi?
+print(4 <= 2)   # Küçük veya eşit mi?
