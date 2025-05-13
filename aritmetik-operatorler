@@ -1,0 +1,10 @@
+a = 10
+b = 3
+
+print(a + b)   # Toplama
+print(a - b)   # Çıkarma
+print(a * b)   # Çarpma
+print(a / b)   # Bölme (float sonuç)
+print(a // b)  # Tam sayı bölme
+print(a % b)   # Mod (kalan)
+print(a ** b)  # Üs alma (10^3)
